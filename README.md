@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chavan Ramesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [waste-management-using-CNN-model](https://github.com/rameshchavan07/waste-management-using-CNN-model)
 
 - 📫 How to reach me **rameshchavan5052@gmail.com**
 
