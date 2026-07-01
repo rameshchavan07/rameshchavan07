@@ -1,14 +1,80 @@
-<h1 align="center">Hi 👋, I'm Chavan Ramesh</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 👋 Hi, I'm Ramesh Chavan
 
-
-- 📫 How to reach me **rameshchavan5052@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ramesh-chavan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramesh-chavan07" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/xr_rutu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xr_rutu" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 📱 Flutter Developer
+- 🧠 AI & LLM Enthusiast
+- 🌐 React • Node.js • TypeScript • Prisma • PostgreSQL
+- 🤖 OpenAI • Gemini • LangChain • TensorFlow • Python
+
+## 👀 Visitor Counter
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+
+## 🧠 AI & LLM Skills
+- Prompt Engineering
+- RAG
+- AI Agents
+- LLM Applications
+- NLP
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- LangChain
+- LlamaIndex
+- OpenAI API
+- Google Gemini
+
+## 💻 Tech Stack
+![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,tensorflow,postgres,mongodb,mysql,firebase,supabase,docker,git,github,linux,vscode,figma)
+
+## 🚀 Featured Projects
+### Smart LMS
+React • Node • Prisma • PostgreSQL • TypeScript
+
+### AI Healthcare Assistant
+Python • ML • AI Chatbot
+
+### DayScore
+Flutter • Firebase • AI
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+## 📈 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+## 📅 WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🎵 Spotify
+Replace YOUR_SPOTIFY_ID:
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+## 🏅 Holopin
+[![Holopin](https://holopin.me/YOUR_HOLOPIN_USERNAME)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
+
+## 🐍 Snake
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+## 🚀 3D Contributions
+![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/ramesh-chavan07
+- Email: rameshchavan5052@gmail.com
+- Instagram: https://instagram.com/xr_rutu
+
+---
+⭐ Thanks for visiting!
