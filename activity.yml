@@ -1,0 +1,11 @@
+name: Recent Activity
+on:
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
