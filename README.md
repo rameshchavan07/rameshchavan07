@@ -12,7 +12,7 @@
 - 🤖 OpenAI • Gemini • LangChain • TensorFlow • Python
 
 ## 👀 Visitor Counter
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ramesh-chavan07&style=for-the-badge)
 
 ## 🧠 AI & LLM Skills
 - Prompt Engineering
@@ -42,17 +42,17 @@ Python • ML • AI Chatbot
 Flutter • Firebase • AI
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ramesh-chavan07&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramesh-chavan07&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-chavan07&layout=compact&theme=tokyonight)
 
 ## 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ramesh-chavan07&theme=tokyo-night)
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=ramesh-chavan07&theme=tokyonight)
 
 ## 📅 WakaTime
 <!--START_SECTION:waka-->
@@ -66,10 +66,10 @@ Replace YOUR_SPOTIFY_ID:
 [![Holopin](https://holopin.me/YOUR_HOLOPIN_USERNAME)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
 
 ## 🐍 Snake
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ramesh-chavan07/ramesh-chavan07/output/github-contribution-grid-snake.svg"/>
 
 ## 🚀 3D Contributions
-![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/ramesh-chavan07/ramesh-chavan07/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📫 Connect
 - LinkedIn: https://linkedin.com/in/ramesh-chavan07
