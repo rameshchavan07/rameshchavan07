@@ -140,7 +140,7 @@ No activity tracked
 
 # 🚀 3D Contribution Graph
 
-![](https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/output/profile-night-rainbow.svg)
 
 ---
 
