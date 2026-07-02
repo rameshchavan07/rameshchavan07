@@ -136,17 +136,7 @@ AI-powered Wellness & Productivity Application.
 
 </p>
 
----
 
-# 🛠 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,java,kotlin,mongodb,postgres,mysql,firebase,supabase,docker,git,github,linux,vscode,figma,postman,androidstudio"/>
-
-</p>
-
----
 
 # 🌟 Currently Learning
 
