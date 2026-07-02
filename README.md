@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Ramesh Chavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rameshchavan07">
-    <img src="https://komarev.com/ghpvc/?username=rameshchavan07&style=for-the-badge&color=0e75b6"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rameshchavan07&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Full Stack & Flutter Developer** passionate about building scalable web applications, cross-platform mobile apps, and AI-powered software.
+💻 Full Stack Developer
 
-- 💻 Full Stack Development
-- 📱 Flutter Development
-- 🤖 AI & LLM Applications
-- 🌐 Open Source Enthusiast
-- 🎯 Always learning modern technologies
+📱 Flutter Developer
+
+🤖 AI & LLM Enthusiast
+
+🌐 Passionate about Web, Mobile & AI Applications
+
+🎯 Always learning modern technologies
 
 ---
 
@@ -48,9 +48,9 @@ I'm a **Full Stack & Flutter Developer** passionate about building scalable web 
 
 - Prompt Engineering
 - AI Agents
+- Retrieval-Augmented Generation (RAG)
 - LangChain
 - LlamaIndex
-- Retrieval-Augmented Generation (RAG)
 - OpenAI API
 - Google Gemini API
 - TensorFlow
@@ -64,26 +64,17 @@ I'm a **Full Stack & Flutter Developer** passionate about building scalable web 
 
 ## 📚 Smart LMS
 
-> Complete Learning Management System
+Complete Learning Management System built using React, Node.js, Prisma, PostgreSQL and TypeScript.
 
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- Prisma
-- PostgreSQL
-- TypeScript
-
-**Features**
+### Features
 
 - Student Portal
 - Teacher Portal
 - Admin Dashboard
 - Live Classes
 - Recorded Lectures
-- Attendance
 - Assignments
+- Attendance
 - Exams
 - Chat
 - Notifications
@@ -92,9 +83,9 @@ I'm a **Full Stack & Flutter Developer** passionate about building scalable web 
 
 ## 🤖 AI Healthcare Assistant
 
-Machine Learning based disease prediction system with AI Chatbot.
+Machine Learning based Disease Prediction System with AI Chatbot.
 
-**Stack**
+**Tech Stack**
 
 - Python
 - TensorFlow
@@ -107,13 +98,15 @@ Machine Learning based disease prediction system with AI Chatbot.
 
 ## 📱 DayScore
 
-AI-powered Wellness & Productivity App
+AI-powered Wellness & Productivity Application.
+
+### Features
 
 - AI Chatbot
 - Google Fit Integration
 - Mood Tracking
 - Analytics Dashboard
-- Daily Health Score
+- Health Score
 
 ---
 
@@ -121,7 +114,7 @@ AI-powered Wellness & Productivity App
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rameshchavan07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rameshchavan07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshchavan07&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -129,7 +122,7 @@ AI-powered Wellness & Productivity App
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshchavan07&theme=tokyonight&hide_border=true"/>
+<img width="700" src="https://streak-stats.demolab.com?user=rameshchavan07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,6 +135,27 @@ AI-powered Wellness & Productivity App
 <img src="https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </p>
+
+---
+
+# 🛠 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,java,kotlin,mongodb,postgres,mysql,firebase,supabase,docker,git,github,linux,vscode,figma,postman,androidstudio"/>
+
+</p>
+
+---
+
+# 🌟 Currently Learning
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- ☁️ Cloud Computing
+- 🚀 DevOps
+- 📱 Advanced Flutter
+- ⚡ Next.js
 
 ---
 
@@ -177,8 +191,8 @@ AI-powered Wellness & Productivity App
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
-*"Building scalable applications with Flutter, AI & Full Stack technologies."*
+**Building scalable Flutter, Full Stack & AI applications.**
 
 </p>
