@@ -1,29 +1,45 @@
 # 👋 Hi, I'm Ramesh Chavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameshchavan07&style=for-the-badge" />
+  <a href="https://github.com/rameshchavan07">
+    <img src="https://komarev.com/ghpvc/?username=rameshchavan07&style=for-the-badge&color=0e75b6"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer
-- 📱 Flutter Developer
-- 🤖 AI & LLM Enthusiast
-- 🌐 Passionate about Web, Mobile & AI Applications
-- 🎯 Always learning new technologies and building real-world projects
+I'm a **Full Stack & Flutter Developer** passionate about building scalable web applications, cross-platform mobile apps, and AI-powered software.
+
+- 💻 Full Stack Development
+- 📱 Flutter Development
+- 🤖 AI & LLM Applications
+- 🌐 Open Source Enthusiast
+- 🎯 Always learning modern technologies
 
 ---
 
-# 💻 Tech Stack
+# 💼 Current Focus
+
+- 📚 Smart LMS Platform
+- 🤖 AI Healthcare Assistant
+- 📱 Flutter Applications
+- ☁️ Full Stack Development
+- 🧠 AI Agents & LLMs
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,tensorflow,postgres,mongodb,mysql,firebase,supabase,docker,git,github,linux,vscode,figma" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,java,kotlin,mongodb,postgres,mysql,firebase,supabase,docker,git,github,linux,vscode,figma,postman,androidstudio"/>
+
 </p>
 
 ---
@@ -32,15 +48,15 @@
 
 - Prompt Engineering
 - AI Agents
-- Retrieval-Augmented Generation (RAG)
 - LangChain
 - LlamaIndex
+- Retrieval-Augmented Generation (RAG)
 - OpenAI API
 - Google Gemini API
 - TensorFlow
 - PyTorch
 - Scikit-learn
-- Natural Language Processing (NLP)
+- Natural Language Processing
 
 ---
 
@@ -48,9 +64,18 @@
 
 ## 📚 Smart LMS
 
-A complete Learning Management System built using **React, Node.js, Prisma, PostgreSQL and TypeScript.**
+> Complete Learning Management System
 
-### Features
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+- TypeScript
+
+**Features**
 
 - Student Portal
 - Teacher Portal
@@ -59,17 +84,17 @@ A complete Learning Management System built using **React, Node.js, Prisma, Post
 - Recorded Lectures
 - Attendance
 - Assignments
-- Online Exams
-- Chat System
+- Exams
+- Chat
 - Notifications
 
 ---
 
 ## 🤖 AI Healthcare Assistant
 
-Machine Learning based Disease Prediction System with AI Chatbot.
+Machine Learning based disease prediction system with AI Chatbot.
 
-### Tech Stack
+**Stack**
 
 - Python
 - TensorFlow
@@ -82,16 +107,13 @@ Machine Learning based Disease Prediction System with AI Chatbot.
 
 ## 📱 DayScore
 
-AI-powered Wellness & Productivity Application.
+AI-powered Wellness & Productivity App
 
-### Features
-
-- Mood Tracking
 - AI Chatbot
 - Google Fit Integration
-- Daily Health Score
+- Mood Tracking
 - Analytics Dashboard
-- Productivity Tracking
+- Daily Health Score
 
 ---
 
@@ -113,49 +135,50 @@ AI-powered Wellness & Productivity Application.
 
 ---
 
-# 🛠 Languages & Tools
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,java,kotlin,mongodb,postgres,mysql,firebase,supabase,docker,git,github,linux,vscode,figma,postman,androidstudio" />
+<img src="https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </p>
-
----
-
-# 🌟 Currently Working On
-
-- 📚 Smart LMS Platform
-- 🤖 AI Healthcare Assistant
-- 📱 Flutter Applications
-- 🧠 AI Agent Development
-- ☁️ Full Stack Web Applications
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-💼 **LinkedIn**  
-https://linkedin.com/in/ramesh-chavan07
+<a href="https://linkedin.com/in/ramesh-chavan07">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 **Email**  
-rameshchavan5052@gmail.com
+<a href="mailto:rameshchavan5052@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📸 **Instagram**  
-https://instagram.com/xr_rutu
+<a href="https://github.com/rameshchavan07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/xr_rutu">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💡 Quote
 
 > **"Code. Learn. Build. Repeat."**
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Building scalable applications with Flutter, AI & Full Stack technologies."*
+
+</p>
