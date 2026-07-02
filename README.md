@@ -1,46 +1,46 @@
 # 👋 Hi, I'm Ramesh Chavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;AI+Developer;Open+Source+Enthusiast" />
 </p>
 
-## 🚀 About Me
-
-* 💻 Full Stack Developer
-* 📱 Flutter Developer
-* 🧠 AI & LLM Enthusiast
-* 🌐 React • Next.js • Node.js • Express • TypeScript
-* 🗄️ Prisma • PostgreSQL • MongoDB • Firebase • Supabase
-* 🤖 OpenAI • Gemini • LangChain • TensorFlow • Python
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rameshchavan07&style=for-the-badge" />
+</p>
 
 ---
 
-## 👀 Visitor Counter
+# 🚀 About Me
 
-![](https://komarev.com/ghpvc/?username=rameshchavan07\&style=for-the-badge)
-
----
-
-## 🧠 AI & LLM Skills
-
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* LLM Applications
-* Natural Language Processing (NLP)
-* TensorFlow
-* PyTorch
-* Scikit-learn
-* LangChain
-* LlamaIndex
-* OpenAI API
-* Google Gemini
+- 💻 Full Stack Developer
+- 📱 Flutter Developer
+- 🤖 AI & LLM Enthusiast
+- 🌐 Passionate about Web, Mobile & AI Applications
+- 🎯 Always learning new technologies and building real-world projects
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,tensorflow,postgres,mongodb,mysql,firebase,supabase,docker,git,github,linux,vscode,figma)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,tensorflow,postgres,mongodb,mysql,firebase,supabase,docker,git,github,linux,vscode,figma" />
+</p>
+
+---
+
+# 🧠 AI & Machine Learning
+
+- Prompt Engineering
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LlamaIndex
+- OpenAI API
+- Google Gemini API
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Natural Language Processing (NLP)
 
 ---
 
@@ -48,114 +48,114 @@
 
 ## 📚 Smart LMS
 
-> A complete Learning Management System built with React, Node.js, Prisma, PostgreSQL and TypeScript.
+A complete Learning Management System built using **React, Node.js, Prisma, PostgreSQL and TypeScript.**
 
-**Features**
+### Features
 
-* Student Portal
-* Teacher Portal
-* Admin Dashboard
-* Live Classes
-* Recorded Lectures
-* Assignments
-* Attendance
-* Exams
-* Chat System
-* Notifications
+- Student Portal
+- Teacher Portal
+- Admin Dashboard
+- Live Classes
+- Recorded Lectures
+- Attendance
+- Assignments
+- Online Exams
+- Chat System
+- Notifications
 
 ---
 
 ## 🤖 AI Healthcare Assistant
 
-Machine Learning based disease prediction system with AI chatbot.
+Machine Learning based Disease Prediction System with AI Chatbot.
 
-**Tech Stack**
+### Tech Stack
 
-* Python
-* Scikit-learn
-* TensorFlow
-* Streamlit
-* Supabase
-* Firebase Authentication
+- Python
+- TensorFlow
+- Scikit-learn
+- Streamlit
+- Supabase
+- Firebase Authentication
 
 ---
 
 ## 📱 DayScore
 
-AI-powered wellness and productivity application.
+AI-powered Wellness & Productivity Application.
 
-**Features**
+### Features
 
-* Mood Tracking
-* Health Score
-* Google Fit Integration
-* AI Chatbot
-* Analytics Dashboard
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rameshchavan07\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rameshchavan07\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshchavan07\&layout=compact\&theme=tokyonight\&hide_border=true)
+- Mood Tracking
+- AI Chatbot
+- Google Fit Integration
+- Daily Health Score
+- Analytics Dashboard
+- Productivity Tracking
 
 ---
 
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=rameshchavan07\&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rameshchavan07\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
-
-# 📅 WakaTime
-
-> Enable the WakaTime GitHub Action to display your coding statistics.
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-# 🐍 Contribution Snake
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/output/github-contribution-grid-snake.svg"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rameshchavan07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshchavan07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshchavan07&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🚀 3D Contribution Graph
+# 🛠 Languages & Tools
 
-![](https://raw.githubusercontent.com/rameshchavan07/rameshchavan07/output/profile-night-rainbow.svg)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,flutter,dart,python,java,kotlin,mongodb,postgres,mysql,firebase,supabase,docker,git,github,linux,vscode,figma,postman,androidstudio" />
+
+</p>
+
+---
+
+# 🌟 Currently Working On
+
+- 📚 Smart LMS Platform
+- 🤖 AI Healthcare Assistant
+- 📱 Flutter Applications
+- 🧠 AI Agent Development
+- ☁️ Full Stack Web Applications
 
 ---
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/ramesh-chavan07
-* 📧 Email: [rameshchavan5052@gmail.com](mailto:rameshchavan5052@gmail.com)
-* 📸 Instagram: https://instagram.com/xr_rutu
+<p align="left">
+
+💼 **LinkedIn**  
+https://linkedin.com/in/ramesh-chavan07
+
+📧 **Email**  
+rameshchavan5052@gmail.com
+
+📸 **Instagram**  
+https://instagram.com/xr_rutu
+
+</p>
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
